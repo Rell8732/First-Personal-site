@@ -1,0 +1,48 @@
+body {
+  background-color: #EAF6F6;
+  margin: 0;
+}
+
+hr {
+  background-color: #EAF6F6;
+  width: 2%;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #66BFBF;
+}
+
+img {
+  height: 200px;
+}
+
+h1, h3 {
+  color: #66BFBF;
+}
+
+.circular {
+  border-radius: 100%;
+
+}
+
+.Education {
+  background-color: white;
+  
+
+}
+
+.Dates {
+  background-color: white;
+
+}
+
+.Contact {
+  background-color: white;
+
+
+}
+
+
+
+#contacts {
+  margin-bottom: 0;
+}
